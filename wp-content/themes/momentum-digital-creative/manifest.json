@@ -1,0 +1,22 @@
+{
+  "name": "Momentum Digital Creative",
+  "short_name": "Momentum",
+  "description": "Graphic design. Web development.",
+  "start_url": "",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "orientation": "portrait",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./images/favicons/favicon-192.png",
+      "type": "image/icons/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/favicons/favicon-512.png",
+      "type": "image/favicons/png",
+      "sizes": "512x512"
+    }
+  ]
+}
